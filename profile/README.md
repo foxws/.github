@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./foxws-logo.webp" alt="foxws" width="400">
+  <img src="./foxws-logo.webp" alt="Foxws" width="400">
 </p>
 
-# foxws
+# Foxws
 
 Building with the Laravel ecosystem — PHP, Inertia.js, Livewire, and modern JS/TypeScript.
 
