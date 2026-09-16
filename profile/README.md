@@ -6,6 +6,8 @@
 
 Building with the Laravel ecosystem — PHP, Inertia.js, Livewire, and modern JS/TypeScript.
 
+Check out [foxws.nl](https://foxws.nl) for documentation on some of my packages. Every package also ships its own docs, right in its `docs/` folder.
+
 ## What I work with
 
 - **Laravel** — including custom packages
