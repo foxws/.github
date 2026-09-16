@@ -4,6 +4,8 @@
 
 # Foxws
 
+[foxws.nl](https://foxws.nl)
+
 Building with the Laravel ecosystem — PHP, Inertia.js, Livewire, and modern JS/TypeScript.
 
 ## What I work with
